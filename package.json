@@ -1,8 +1,8 @@
 {
-  "name": "happyfri",
+  "name": "vue-questions-and-answers",
   "version": "1.0.2",
-  "description": "vue2-happyfri",
-  "author": "cangdu <1264889788@qq.com>",
+  "description": "questions and answers",
+  "author": "lulei0908 <lulei1228@sina.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
